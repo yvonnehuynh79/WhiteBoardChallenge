@@ -1,0 +1,15 @@
+/Users/yvonnehuynh/Desktop/Repos/WhiteBoardChallenge/FizzBuzz/FizzBuzz/bin/Debug/net7.0/FizzBuzz
+/Users/yvonnehuynh/Desktop/Repos/WhiteBoardChallenge/FizzBuzz/FizzBuzz/bin/Debug/net7.0/FizzBuzz.deps.json
+/Users/yvonnehuynh/Desktop/Repos/WhiteBoardChallenge/FizzBuzz/FizzBuzz/bin/Debug/net7.0/FizzBuzz.runtimeconfig.json
+/Users/yvonnehuynh/Desktop/Repos/WhiteBoardChallenge/FizzBuzz/FizzBuzz/bin/Debug/net7.0/FizzBuzz.dll
+/Users/yvonnehuynh/Desktop/Repos/WhiteBoardChallenge/FizzBuzz/FizzBuzz/bin/Debug/net7.0/FizzBuzz.pdb
+/Users/yvonnehuynh/Desktop/Repos/WhiteBoardChallenge/FizzBuzz/FizzBuzz/obj/Debug/net7.0/FizzBuzz.csproj.AssemblyReference.cache
+/Users/yvonnehuynh/Desktop/Repos/WhiteBoardChallenge/FizzBuzz/FizzBuzz/obj/Debug/net7.0/FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yvonnehuynh/Desktop/Repos/WhiteBoardChallenge/FizzBuzz/FizzBuzz/obj/Debug/net7.0/FizzBuzz.AssemblyInfoInputs.cache
+/Users/yvonnehuynh/Desktop/Repos/WhiteBoardChallenge/FizzBuzz/FizzBuzz/obj/Debug/net7.0/FizzBuzz.AssemblyInfo.cs
+/Users/yvonnehuynh/Desktop/Repos/WhiteBoardChallenge/FizzBuzz/FizzBuzz/obj/Debug/net7.0/FizzBuzz.csproj.CoreCompileInputs.cache
+/Users/yvonnehuynh/Desktop/Repos/WhiteBoardChallenge/FizzBuzz/FizzBuzz/obj/Debug/net7.0/FizzBuzz.dll
+/Users/yvonnehuynh/Desktop/Repos/WhiteBoardChallenge/FizzBuzz/FizzBuzz/obj/Debug/net7.0/refint/FizzBuzz.dll
+/Users/yvonnehuynh/Desktop/Repos/WhiteBoardChallenge/FizzBuzz/FizzBuzz/obj/Debug/net7.0/FizzBuzz.pdb
+/Users/yvonnehuynh/Desktop/Repos/WhiteBoardChallenge/FizzBuzz/FizzBuzz/obj/Debug/net7.0/FizzBuzz.genruntimeconfig.cache
+/Users/yvonnehuynh/Desktop/Repos/WhiteBoardChallenge/FizzBuzz/FizzBuzz/obj/Debug/net7.0/ref/FizzBuzz.dll
